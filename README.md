@@ -1,3 +1,5 @@
+Link: https://gorgeous-kleicha-2fae8b.netlify.app/
+
 <!-- 
 -created app npm i create vite@latest
 -intall tailwind change tailwind.config, index.css, postcss.congfig
@@ -35,8 +37,3 @@ created header , footer, and index file, componenet, container, logo, input, sel
  -->
 
 
-project id ; 65d8f2d404f9033d7cb3
-apiurl ; https://cloud.appwrite.io/v1
-database id ; 65d8f428f1b82ec56c56
-collectionid: 65d8f4b2e8a0c527ab2e
-bucket id: 65d8f7c0bdfbd210ae7b
